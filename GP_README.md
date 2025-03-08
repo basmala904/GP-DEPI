@@ -19,7 +19,7 @@ This project aims to analyze railway ticket sales, delays, and refund requests t
 
 ---
 
-# 📅 Project Plan
+## 📅 Project Plan
 ### Milestones
 
 | Milestone                     |Expected Completion|
@@ -50,7 +50,7 @@ This project aims to analyze railway ticket sales, delays, and refund requests t
 
 ---
 
-# 📝 Task Assignment & Roles
+## 📝 Task Assignment & Roles
 | Task                                       | Assigned To            | 
 |--------------------------------------------|------------------------|
 | Data Cleaning & Preprocessing Using SQL    | Basmala and Manar      |
@@ -61,7 +61,7 @@ This project aims to analyze railway ticket sales, delays, and refund requests t
 | Visualization Dashboard using PowerBI      | Basmala,Manar and Sarah|
 | Visualization Dashboard using Tableau      | Mohammed,Omar and Adham|
 
-# 📊 Key Performance Indicators (KPIs)
+## 📊 Key Performance Indicators (KPIs)
 ### Metrics of Project Success
 - **Peak Purchase Hour Identified** → Successfully determine peak hours for ticket sales.
 - **Top Delayed Stations Identified** → Identify the stations with the highest delays.
@@ -71,17 +71,19 @@ This project aims to analyze railway ticket sales, delays, and refund requests t
 
 ---
 
-# 🔍 Stakeholder Analysis
-| Stakeholder          | Role in Project             | Importance |
-|----------------------|-----------------------------|------------|
-| Railway Operators    | Improve scheduling & delays | High       |
-| Passengers           | Understand delay trends     | High       |
-| Business Analysts    | Decision-making support     | Medium     |
-
+## 🔍 Stakeholder Analysis
+| Stakeholder           | Role in Project                        | Importance |
+|-----------------------|----------------------------------------|------------|
+| Railway Operators     | Improve scheduling & delays            | High       |
+| Passengers            | Understand delay trends                | High       |
+| Business Analysts     | Decision-making support                | Medium     |
+| Customer Service Teams| Handle complaints & refund requests    | Medium     |
+| Financial Teams       | Assess impact of delays on revenue     | Medium     |
 ---
+
 ## Data Modeling
 <div>
-  <img src="https://github.com/user-attachments/assets/b22d78e2-fd0c-45da-8d69-5333055fe4c9">
+  <img src="https://github.com/user-attachments/assets/f69ac981-c31f-47c0-b273-3f96326ae554">
 </div>
 
 
