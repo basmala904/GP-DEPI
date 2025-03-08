@@ -22,7 +22,7 @@ This project aims to analyze railway ticket sales, delays, and refund requests t
 # 📅 Project Plan
 ### Milestones
 
-
+![Image Description](file:///D:/DEPI%20DA/Graduation%20Project/Gannt_Chart.PNG)
 
 
 
