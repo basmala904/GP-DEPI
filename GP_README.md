@@ -22,19 +22,20 @@ This project aims to analyze railway ticket sales, delays, and refund requests t
 # 📅 Project Plan
 ### Milestones
 
-![Image Description](file:///D:/DEPI%20DA/Graduation%20Project/Gannt_Chart.PNG)
+| Milestone                     |Expected Completion|
+|-------------------------------|------------------ |
+| Data Cleaning & Preprocessing | Completed         |
+| Data Model                    | Completed         |
+| Data Analysis                 | Completed         |
+| Forecasting Phase             | Ongoing           |
+| Visualization Dashboard       | 14-Apr-2025       |
+| Final Presentation            | 1-May-2025        |
 
+### Timeline
 
-
-
-| Milestone                  | Expected Completion |
-|----------------------------|---------------------|
-| Data Cleaning & Preprocessing | Completed        |
-| Data Model                    | Completed        |
-| Data Analysis                 | Completed        |
-| Forecasting Phase             | Ongoing          |
-| Visualization Dashboard       | 14-Apr-2025      |
-| Final Presentation            | 1-May-2025       |
+<div>
+  <img src="https://github.com/user-attachments/assets/b22d78e2-fd0c-45da-8d69-5333055fe4c9">
+</div>
 
 ### Deliverables
 - **Cleaned & Processed Dataset** → Ready for analysis.
@@ -78,12 +79,9 @@ This project aims to analyze railway ticket sales, delays, and refund requests t
 | Business Analysts    | Decision-making support     | Medium     |
 
 ---
+## Data Modeling
+<div>
+  <img src="https://github.com/user-attachments/assets/b22d78e2-fd0c-45da-8d69-5333055fe4c9">
+</div>
 
-## 🚀 How to Contribute
-1. Fork the repository
-2. Clone the repository
-3. Make changes and commit
-4. Submit a pull request
 
-## 📩 Contact
-For any inquiries, reach out to: [Your Contact Information]
