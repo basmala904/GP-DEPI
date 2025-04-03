@@ -53,13 +53,12 @@ This project aims to analyze railway ticket sales, delays, and refund requests t
 ## 📝 Task Assignment & Roles
 | Task                                       | Assigned To            | 
 |--------------------------------------------|------------------------|
-| Data Cleaning & Preprocessing Using SQL    | Basmala and Manar      |
-| Data Cleaning & Preprocessing Using Python | Mohammed and Omar      | 
-| Data Model Using Power BI                  | Sarah and Adham        | 
-| Data Analysis Using Python                 | Basmala,Manar and Sarah|
-| Forecasting using Python                   | Mohammed,Omar and Adham|
-| Visualization Dashboard using PowerBI      | Basmala,Manar and Sarah|
-| Visualization Dashboard using Tableau      | Mohammed,Omar and Adham|
+| Data Cleaning & Preprocessing Using SQL    | Adham and Sara         |
+| Data Cleaning & Preprocessing Using Python | Basmala and Manar      |  
+| Data Analysis Using Python                 | Basmala and Manar      |
+| Data Analysis Using SQL                    | Adham and Sara         |
+| Forecasting using Python                   | Mohammed               |
+| Visualization Dashboard using Tableau      | Mohammed and Omar      |
 
 ## 📊 Key Performance Indicators (KPIs)
 ### Metrics of Project Success
