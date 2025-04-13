@@ -54,11 +54,10 @@ This project aims to analyze railway ticket sales, delays, and refund requests t
 | Task                                       | Assigned To            | 
 |--------------------------------------------|------------------------|
 | Data Cleaning & Preprocessing Using SQL    | Adham and Sara         |
-| Data Cleaning & Preprocessing Using Python | Basmala and Manar      |  
-| Data Analysis Using Python                 | Basmala and Manar      |
-| Data Analysis Using SQL                    | Adham and Sara         |
+| Data Cleaning & Preprocessing Using Python | Manar                  |  
+| Data Analysis Using Python                 | Basmala                |
 | Forecasting using Python                   | Mohammed               |
-| Visualization Dashboard using Tableau      | Mohammed and Omar      |
+| Visualization Dashboard using Tableau      | Sara, Basmala and Omar |
 
 ## 📊 Key Performance Indicators (KPIs)
 ### Metrics of Project Success
